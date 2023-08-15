@@ -1,0 +1,12 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+[*]
+indent_style = tab
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true #remover espaços em branco que sobressaem as linhas de código
+insert_final_newline = true #adiciona uma nova linha vazia no final do arquivo
